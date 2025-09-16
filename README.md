@@ -1,2 +1,4 @@
-# Excel-Dashboard
-I developed a comprehension project in Excel, creating a multiple dashboards and tables to analyze the data.This process involved several stages, including data processing, data cleaning, and data visulization.
+# HR-Attrition-Data-Analysis (Interactive Dashboard creation using MS Excel)
+## Project Objective
+HR wants to store total employees attrition report of the Company. So, that the CEO of the company can understand their employees and their activity of company.
+
